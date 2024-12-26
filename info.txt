@@ -1,0 +1,4 @@
+sudo su 
+source /home/kunal/Desktop/tools/python_venv/bin/activate
+
+
